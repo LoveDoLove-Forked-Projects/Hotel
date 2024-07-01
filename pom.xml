@@ -35,7 +35,7 @@
         <druid.version>1.1.10</druid.version>
         <lombok.version>1.18.2</lombok.version>
         <commons-lang3.version>3.8</commons-lang3.version>
-        <hutool-all.version>4.1.13</hutool-all.version>
+        <hutool-all.version>5.8.21</hutool-all.version>
     </properties>
 
     <dependencies>
